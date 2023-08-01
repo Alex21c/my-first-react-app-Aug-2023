@@ -1,0 +1,30 @@
+[
+  {
+   "name": "Apple",
+   "harvestedFrom": "Himachal Pradesh",
+   "color": "red"
+  },
+  {
+	"name": "Grapes",
+	"harvestedFrom": "Maharashtra",
+	"color": "Green"
+  },
+  {
+	"name": "Persimmon",
+	"harvestedFrom": "Himachal Pradesh",
+	"color": "Orange"
+  },
+  {
+	"name": "Guava",
+	"harvestedFrom": "Uttar Pradesh",
+	"color": "Orange"
+  },
+  {
+	"name": "Mango",
+	"harvestedFrom": "Uttar Pradesh",
+	"color": "Yellow"
+  }
+    
+  
+
+]
